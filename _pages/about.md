@@ -258,6 +258,6 @@ Reviewer (Since 2021): ACL, NAACL, AACL, ACL Roling, EMNLP, COLING, ICLR, ICML, 
 
 <p align="center">
   <a href="https://mapmyvisitors.com/web/1bw92" title="Visit tracker">
-      <img src="https://mapmyvisitors.com/map.png?d=BhRSPcnjUrTtTkCDdeVRXMqw6HyniCpx8JUB-8u8VAA&cl=ffffff" style="width:800px; height:auto;" />
+      <img src="https://mapmyvisitors.com/map.png?d=BhRSPcnjUrTtTkCDdeVRXMqw6HyniCpx8JUB-8u8VAA&cl=ffffff" style="width:750px; height:auto;" />
   </a>
 </p>
