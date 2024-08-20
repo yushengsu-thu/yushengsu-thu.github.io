@@ -50,6 +50,7 @@ Recently, I am more focus on:
 * [Jan. 2024] Invited Research Talk at [Alibaba DAMO Academy](https://www.alibabagroup.com/en-US/about-alibaba)]. Topic: From Assistant Agents (Co-pilots) to Autonomous Agents [[slide](https://drive.google.com/file/d/12M7O3cq8cJX7XXxUMG4IkkwuYP5s8nAh/view?usp=sharing)]
 * [Jul. 2023] Invited Research Talk at [CMU](https://www.cmu.edu/)/[MBZUAI](https://mbzuai.ac.ae/) hosted by [Eric P. Xing](http://www.cs.cmu.edu/~epxing/). Topic: Efficient Adaptation of Large-scale Pre-trained Language Models [[slide](https://drive.google.com/file/d/1ow2Q-YUOk-Hyvou3VAH88yvGlQzS7SFN/view?usp=sharing)].
 * [Sep. 2022] Invited Talk (on-line) @ [SAP - AI Research](https://www.sap.com/products/artificial-intelligence.html), Headquarter, Germany
+
 <!--
 * [Jul. 2022] Oral Talk @ NAACL 2022, [[slide](https://drive.google.com/file/d/1OSmU3s7DOv-Gux5JcjuY0w79MzRRJuiA/view?usp=sharing)] [[video](https://www.youtube.com/watch?v=KVgmtgMQ3ig)]
 * [Apr. 2021] Spotlight Talks (on-line) @ WWW 2021 (Self-Supervised Learning Workshop)
