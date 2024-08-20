@@ -8,60 +8,52 @@ redirect_from:
   - /about.html
 ---
 
-My name is Yu-Sheng (Ethan) Su. I am currently a Research Fellow hosted by [Eric Xing](http://www.cs.cmu.edu/~epxing/) from [CMU](https://www.cmu.edu/) / [MBZUAI](https://mbzuai.ac.ae/) and work on large-scale pre-trained language models (LLMs) now. I completed my Ph.D. in 2023 from the [Department of Computer Science and Technology](http://www.cs.tsinghua.edu.cn/) at [Tsinghua University](https://www.tsinghua.edu.cn/publish/thu2018en/index.html). Throughout my Ph.D. (from 2019 to 2023), I had the privilege of being advised by [Zhiyuan Liu](https://scholar.google.com/citations?user=dT0v5u0AAAAJ&hl=zh-TW) and joining [THUNLP Lab](https://github.com/thunlp) hosted by [Maosong Sun](https://www.cs.tsinghua.edu.cn/csen/info/1180/4033.htm). Besides, I work closely with a start-up team, [ModelBest](https://github.com/OpenBMB). For further details on my academic research and experience, please refer to my [[Google Scholar](https://scholar.google.com/citations?user=xwy6Va4AAAAJ&hl=en)].
+My name is Yu-Sheng (Ethan) Su. I am a research scientist at AMD [GenAI team](https://zicliu.wixsite.com/mysite) and work on large-scale foundation models, especially focusing on data and architecture. Before I joined AMD, I was currently a Research Fellow hosted by [Eric Xing](http://www.cs.cmu.edu/~epxing/) from [CMU](https://www.cmu.edu/) / [MBZUAI](https://mbzuai.ac.ae/). I completed my Ph.D. in 2023 from the [Department of Computer Science and Technology](http://www.cs.tsinghua.edu.cn/) at [Tsinghua University](https://www.tsinghua.edu.cn/publish/thu2018en/index.html). Throughout my Ph.D. (from 2019 to 2023), I had the privilege of being advised by [Zhiyuan Liu](https://scholar.google.com/citations?user=dT0v5u0AAAAJ&hl=zh-TW) and being a part of the [THUNLP Lab](https://github.com/thunlp) hosted by [Maosong Sun](https://www.cs.tsinghua.edu.cn/csen/info/1180/4033.htm). Besides, I worked closely with some LLM start-up teams including [ModelBest](https://github.com/OpenBMB) and [llm360](https://www.llm360.ai/). 
+
+<!--
+For further details on my academic research and experience, please refer to my [[Google Scholar](https://scholar.google.com/citations?user=xwy6Va4AAAAJ&hl=en)].
+-->
 
 
 <!--You can find my CV [here](/cv/).-->
+<!-- 
 ## On the Job Market
 I'm on the job market, looking for academic and industrial research positions related to LLMs. [[Google Schlar](https://scholar.google.com/citations?user=xwy6Va4AAAAJ&hl=en)] 
+-->
 <!-- [[CV]](https://www.dropbox.com/s/4j059nncu2k6lrf/Yusheng_Su_Resume_2023_05_15.pdf?dl=0) -->
 <!-- (in North America) -->
 
+## Hiring
+AMD's GenAI team focuses on building a series of foundation models and is hiring 🔥 for multiple roles. [Click here](https://zicliu.wixsite.com/mysite) to know more, and feel free to reach out to me if you’re interested, especially in the intern openings.
+
 
 ## Research
-<!--
-I have 4-year experiences in LLMs. My research spans the areas of natural language processing and machine learning. My long-term goal of research is to build a general-purpose machine learning system that can <b>sufficiently learn</b> human-like cognitive capacities (e.g., understanding , reasoning, reflecting, etc.), <b>efficiently adapt</b> to various tasks, and remain <b>interactable and reliable</b> when deployed in real applications. Toward this goal, my previous works spans across:
--->
+My research goal is to develop models that advance toward AGI. Currently, I focus on scaling data volume and quality, as well as enhancing architectural efficiency, to push the boundaries of model capabilities and facilitate large-scale model development.
 
 <!--
-* <b>General-purpose Model. (Model Pre-training)</b> Building pre-trained models that possess the more powerful perceptual abilities and cognitive abilities, such as understanding, reasoning, generation abilities etc ([CPM](https://www.sciencedirect.com/science/article/pii/S266665102100019X), [Knowledge Inheritance](https://aclanthology.org/2022.naacl-main.288/)). <small>Besides, I'm also insterested in [scaling science](https://github.com/yushengsu-thu/Scaling-Science) in foundation models. </small>
--->
-
 My research spans the areas of natural language processing and machine learning, specifically focusing on <b>large language models (LLMs)</b>. I am particularly interested in how to better pre-train, fine-tune/instruction-tune, evaluate LLMs, and advance them in real-world scenarios. Thus, my research broadly covers the following topics:
-<!--
-My goal is to advance LLMs into the next-generation AI system capable of autonomously accomplishing long-horizon tasks according to users' desires. Thus, I am broadly interested in the following topics:
--->
-<!-- 
-To achieve this goal, LLMs should be *comprehend instructions and efficiently adapt to downstream tasks*, *interact with the external world to devise optimal strategies*, and *reliably execute strategies and accomplish goals autonomously in alignment with human intentions*.
---->
 
 * <b> Retrieval Augmented LLM </b> Equip LLMs with the capability to leverage external retrieval information, thereby enhancing their understanding and increasing their trustworthiness. ([CokeBERT](https://arxiv.org/abs/2009.13964), [CSS-LM](https://arxiv.org/abs/2102.03752)) [[Talk20230723](https://drive.google.com/file/d/1lKARwrVFpoTh2E7W8K7B8R6AWncKrDGw/view?usp=sharing)]
 
 * <b>(Fine-tune/Instruction-tune) Computational Efficiency Tuning </b> Develop theories, tools, and algorithms to tune LLMs, enabling them to better understand human's instruction and efficiently adapt to downstream tasks in a computation-friendly manner. (e.g., parameter-efficient tuning methods, instruction tuning). ([Prompt Transferability](https://aclanthology.org/2022.naacl-main.290/), [IPT](https://arxiv.org/abs/2110.07867), [Parameter-efficient Fine-tuning Survey](https://arxiv.org/abs/2203.06904), [APET](https://openreview.net/forum?id=3CIQIYNGlp)) [[Talk20230723](https://drive.google.com/file/d/1lKARwrVFpoTh2E7W8K7B8R6AWncKrDGw/view?usp=sharing), [Talk20240307](https://drive.google.com/file/d/1zo5aGkeOw16PoUYPxjW_2xllAValW_1x/view?usp=sharing)]
 
-<!--Recently, I more focus on <b>interactable and reliable</b> part:-->
 
 Recently, I am more focus on:
 
-
 * <b>Autonomous Agent </b> Developing agents (based on LLMs) that can autonomously interact with the external environment (or humans) to self-improve and drive long-horizon decision-making, thereby accomplishing more complex tasks in the real world ([AgentVerse](https://arxiv.org/abs/2308.10848), [XAgent](https://blog.x-agent.net/about/), [Tool Leaning](https://arxiv.org/abs/2304.08354), [ChatDev](https://arxiv.org/abs/2307.07924)) <small> Note that: Currently, I am exploring ways to transform an assistant agent into an autonomous agent. </small> [[Talk20240228](https://drive.google.com/file/d/12M7O3cq8cJX7XXxUMG4IkkwuYP5s8nAh/view?usp=sharing), [Talk20240307](https://drive.google.com/file/d/1zo5aGkeOw16PoUYPxjW_2xllAValW_1x/view?usp=sharing)]
-
-
-<!-- 
-* <b>AI Alignment - weaker supervision </b> Aligning AI models to act in accordance with human values is challenging: these values are taught by humans who make mistakes, harbor biases, and have a complex that is hard to completely specify. AI models often learn to exploit even minor imperfections in the specified objective, a tendency known as reward hacking. To achieve the alignment goal, a core open problem is a scalable oversight. Thus, I study how to explain, understand, and evaluate ways to better control how AI models extend  our supervision over tasks that are beyond our direct oversight, thereby improving alignment and their ability to generalize. ([Model Emotion](https://arxiv.org/abs/2302.09582), [Chateval](https://arxiv.org/abs/2308.07201)) 
 -->
 
-* <b>AI Alignment</b> Interpretability - [Model Emotion](https://arxiv.org/abs/2302.09582), Scale-oversight - [Chateval](https://arxiv.org/abs/2308.07201)
 
-
-<!--and train/guide another AI system that smarter than human.-->
-
-  <!--
-  <small> Note that: At the present stage, I am exploring how to fine-tune a large language model (LLM) that can autonomously (without human-provided prompts) initiate chain-of-thought and self-reflection processes, akin to human-like machines, in order to perform long-horizon reasoning and achieve better generalization. </small>
-  -->
-
-
-
+## Talks
+* [Mar. 2024] Invited Research Talk at [Microsoft Research - AI Frontiers](https://www.microsoft.com/en-us/research/lab/ai-frontiers/) hosted by [Guoqing Zheng](https://www.microsoft.com/en-us/research/people/zheng/). Topic: Efficient Tuning of Large-scale Pre-trained Language Models (LLMs) [[slide](https://drive.google.com/file/d/1zo5aGkeOw16PoUYPxjW_2xllAValW_1x/view?usp=sharing)]
+* [Feb. 2024] Invited Research Talk at [Microsoft Research - Semantic Machines](https://www.alibabagroup.com/en-US/about-alibaba) hosted by [Ben Van Durme](https://www.microsoft.com/en-us/research/people/bevandur/). Topic: Next-Generation Co-pilot: From Assistant Agent to Autonomy Agent [[slide](https://drive.google.com/file/d/12M7O3cq8cJX7XXxUMG4IkkwuYP5s8nAh/view?usp=sharing)]
+* [Jan. 2024] Invited Research Talk at [Alibaba DAMO Academy](https://www.alibabagroup.com/en-US/about-alibaba)]. Topic: From Assistant Agents (Co-pilots) to Autonomous Agents [[slide](https://drive.google.com/file/d/12M7O3cq8cJX7XXxUMG4IkkwuYP5s8nAh/view?usp=sharing)]
+* [Jul. 2023] Invited Research Talk at [CMU](https://www.cmu.edu/)/[MBZUAI](https://mbzuai.ac.ae/) hosted by [Eric P. Xing](http://www.cs.cmu.edu/~epxing/). Topic: Efficient Adaptation of Large-scale Pre-trained Language Models [[slide](https://drive.google.com/file/d/1ow2Q-YUOk-Hyvou3VAH88yvGlQzS7SFN/view?usp=sharing)].
+* [Sep. 2022] Invited Talk (on-line) @ [SAP - AI Research](https://www.sap.com/products/artificial-intelligence.html), Headquarter, Germany
+<!--
+* [Jul. 2022] Oral Talk @ NAACL 2022, [[slide](https://drive.google.com/file/d/1OSmU3s7DOv-Gux5JcjuY0w79MzRRJuiA/view?usp=sharing)] [[video](https://www.youtube.com/watch?v=KVgmtgMQ3ig)]
+* [Apr. 2021] Spotlight Talks (on-line) @ WWW 2021 (Self-Supervised Learning Workshop)
+-->
 
 
 
@@ -74,6 +66,7 @@ Recently, I am more focus on:
 * [Feb. 2021] Got one paper accepted at WWW 2021. 
 * [Aug. 2020] Got one paper accepted at EMNLP 2020. 
 </font> -->
+* [Aug. 2024] Joined [AMD](https://www.amd.com/en.html) [GenAI team](https://zicliu.wixsite.com/mysite). We are hiring 🔥.
 * [May. 2024] Thrilled to announce that [ChatDev](https://arxiv.org/abs/2307.07924) was accepted by ACL 2024.
 * [May. 2024] I will attend ICLR (Vienna, Austria) conference. Let's grab a coffee. Welcome DM me via [Twitter](https://twitter.com/thu_yushengsu).
 * [Mar. 2024] Invited Research Talk at [Microsoft Research - AI Frontiers](https://www.microsoft.com/en-us/research/lab/ai-frontiers/) hosted by [Guoqing Zheng](https://www.microsoft.com/en-us/research/people/zheng/). Topic: Efficient Tuning of Large-scale Pre-trained Language Models (LLMs) [[slide](https://drive.google.com/file/d/1zo5aGkeOw16PoUYPxjW_2xllAValW_1x/view?usp=sharing)]
@@ -205,15 +198,6 @@ ArXiv 2023. [[pdf](https://arxiv.org/abs/2304.08354)] [[code](https://github.com
 * [Jul. 2022] Tsinghu University - NLP Big Model Course (Summer) [link](https://www.bilibili.com/video/BV1UG411p7zv?p=1&unique_k=OwC3PgP)
 -->
 
-## Talks
-* [Mar. 2024] Invited Research Talk at [Microsoft Research - AI Frontiers](https://www.microsoft.com/en-us/research/lab/ai-frontiers/) hosted by [Guoqing Zheng](https://www.microsoft.com/en-us/research/people/zheng/). Topic: Efficient Tuning of Large-scale Pre-trained Language Models (LLMs) [[slide](https://drive.google.com/file/d/1zo5aGkeOw16PoUYPxjW_2xllAValW_1x/view?usp=sharing)]
-* [Feb. 2024] Invited Research Talk at [Microsoft Research - Semantic Machines](https://www.alibabagroup.com/en-US/about-alibaba) hosted by [Ben Van Durme](https://www.microsoft.com/en-us/research/people/bevandur/). Topic: Next-Generation Co-pilot: From Assistant Agent to Autonomy Agent [[slide](https://drive.google.com/file/d/12M7O3cq8cJX7XXxUMG4IkkwuYP5s8nAh/view?usp=sharing)]
-* [Jan. 2024] Invited Research Talk at [Alibaba DAMO Academy](https://www.alibabagroup.com/en-US/about-alibaba)]. Topic: From Assistant Agents (Co-pilots) to Autonomous Agents [[slide](https://drive.google.com/file/d/12M7O3cq8cJX7XXxUMG4IkkwuYP5s8nAh/view?usp=sharing)]
-* [Jul. 2023] Invited Research Talk at [CMU](https://www.cmu.edu/)/[MBZUAI](https://mbzuai.ac.ae/) hosted by [Eric P. Xing](http://www.cs.cmu.edu/~epxing/). Topic: Efficient Adaptation of Large-scale Pre-trained Language Models [[slide](https://drive.google.com/file/d/1ow2Q-YUOk-Hyvou3VAH88yvGlQzS7SFN/view?usp=sharing)].
-* [Sep. 2022] Invited Talk (on-line) @ [SAP - AI Research](https://www.sap.com/products/artificial-intelligence.html), Headquarter, Germany
-* [Jul. 2022] Oral Talk @ NAACL 2022, [[slide](https://drive.google.com/file/d/1OSmU3s7DOv-Gux5JcjuY0w79MzRRJuiA/view?usp=sharing)] [[video](https://www.youtube.com/watch?v=KVgmtgMQ3ig)]
-* [Apr. 2021] Spotlight Talks (on-line) @ WWW 2021 (Self-Supervised Learning Workshop)
-
 
 
 ## Professional Services
@@ -225,23 +209,29 @@ ArXiv 2023. [[pdf](https://arxiv.org/abs/2304.08354)] [[code](https://github.com
 * Reviewer: ACL Rolling 2021
 * Reviewer: EMNLP/ACL/IEEE-TASLP 2021
 -->
-Reviewer (Since 2021): ACL, NAACL, AACL, ACL Roling, EMNLP, COLING, ICLR, ICML, IJCAI, AAAI
+Reviewer (Since 2021): ACL, NAACL, AACL, ACL Roling, EMNLP, COLING, ICLR, ICML, IJCAI, AAAI, Neurips
 
 
 
 ## Work Experiences
 
-### Tsinghua University - NLP Lab. (Beijing) 2019 - 2023
-* Ph.D. NLP Group (hosted by [Maosong Sun](https://www.cs.tsinghua.edu.cn/csen/info/1180/4033.htm)), AI, Computer Science Department 
-* Advised by [Zhiyuan Liu](http://nlp.csai.tsinghua.edu.cn/~lzy/).
+### Sailing Lab - CMU (U.S) & MBZUAI (U.A.E) 2023 - 2024
+* Postdoctoral researcher
+* Advised and hosted by [Eric P. Xing](https://www.cs.cmu.edu/~epxing/) 
 
-### MediaTek. (Taiwan) 2018 - 2019
+### THUNLP Lab - Tsinghua University (China) 2019 - 2023
+* Ph.D
+* Advised by [Zhiyuan Liu](http://nlp.csai.tsinghua.edu.cn/~lzy/)
+* Hosted by [Maosong Sun](https://www.cs.tsinghua.edu.cn/csen/info/1180/4033.htm)
+
+### MediaTek (Taiwan) 2018 - 2019
 * Deep/Machine Learning Engineer Intern
 * Advised by Jing-Han Wang.
 
-### Microsoft. (Taiwan) 2015 - 2016
+### Microsoft (Taiwan) 2015 - 2016
 * Research and Development Intern
 * Advised by [Kuang-Chao Yeh](https://www.linkedin.com/in/kuang-chao-yeh/) and [Gordon Chang](https://www.linkedin.com/in/gordonwinnow).
+
 
 ## Pre-doctoral Student Mentoring
 * (Since 2021-2023) [Chi-Min Chan](https://scholar.google.com/citations?user=5U4P54wAAAAJ&oi=ao): Tsinghua University (BS) -> Hong Kong University of Science and Technology (HKUST) (MS) 
