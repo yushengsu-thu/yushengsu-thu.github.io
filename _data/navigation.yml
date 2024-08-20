@@ -6,8 +6,8 @@ main:
     #- title: "Talks"
     #url: /talks/    
 
-    - title: "Project"
-    url: /project/  
+    #- title: "Project"
+    #url: /project/  
     
     #- title: "Teaching"
     #url: /teaching/    
