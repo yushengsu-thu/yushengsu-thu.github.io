@@ -28,7 +28,7 @@ AMD's GenAI team focuses on building a series of foundation models and is hiring
 
 
 ## Research
-My research goal is to develop models that progress toward achieving AGI [Google Scholar](https://scholar.google.com/citations?user=xwy6Va4AAAAJ&hl=en) [GitHub](https://github.com/yushengsu-thu). I am currently focusing on three key areas: (1) scaling data volume and quality, (2) enhancing the robustness of model architecture, and (3) optimizing training efficiency. By pursuing these objectives, I aim to break through the boundaries of the existing state-of-the-art model capabilities and facilitate its rapid iterative development.
+My research goal is to develop models that progress toward achieving AGI [[Google Scholar](https://scholar.google.com/citations?user=xwy6Va4AAAAJ&hl=en)] [[GitHub](https://github.com/yushengsu-thu)]. I am currently focusing on three key areas: (1) scaling data volume and quality, (2) enhancing the robustness of model architecture, and (3) optimizing training efficiency. By pursuing these objectives, I aim to break through the boundaries of the existing state-of-the-art model capabilities and facilitate its rapid iterative development.
 
 
 
