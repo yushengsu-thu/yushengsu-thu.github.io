@@ -214,7 +214,7 @@ Reviewer (Since 2021): ACL, NAACL, AACL, ACL Roling, EMNLP, COLING, ICLR, ICML, 
 
 
 
-## Work Experiences
+## Experiences
 
 ### Sailing Lab - CMU (U.S) & MBZUAI (U.A.E) 2023 - 2024
 * Postdoctoral researcher
