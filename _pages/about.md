@@ -202,24 +202,10 @@ ArXiv 2023. [[pdf](https://arxiv.org/abs/2304.08354)] [[code](https://github.com
 -->
 
 
-
-## Professional Services
-<!--
-* Reviewer: COLING 2022
-* Review Committee Member: EMNLP 2022
-* Reviewer: ICML 2022
-* Reviewer: ACL Rolling 2022
-* Reviewer: ACL Rolling 2021
-* Reviewer: EMNLP/ACL/IEEE-TASLP 2021
--->
-Reviewer (Since 2021): ACL, NAACL, AACL, ACL Roling, EMNLP, COLING, ICLR, ICML, IJCAI, AAAI, Neurips
-
-
-
 ## Experiences
 
 ### Sailing Lab - CMU (U.S) & MBZUAI (U.A.E) 2023 - 2024
-* Postdoctoral researcher
+* Postdoctoral Researcher
 * Advised and hosted by [Eric P. Xing](https://www.cs.cmu.edu/~epxing/) 
 
 ### THUNLP Lab - Tsinghua University (China) 2019 - 2023
@@ -234,6 +220,17 @@ Reviewer (Since 2021): ACL, NAACL, AACL, ACL Roling, EMNLP, COLING, ICLR, ICML, 
 ### Microsoft 2015 - 2016
 * Research and Development Intern
 * Advised by [Kuang-Chao Yeh](https://www.linkedin.com/in/kuang-chao-yeh/) and [Gordon Chang](https://www.linkedin.com/in/gordonwinnow).
+
+## Professional Services
+<!--
+* Reviewer: COLING 2022
+* Review Committee Member: EMNLP 2022
+* Reviewer: ICML 2022
+* Reviewer: ACL Rolling 2022
+* Reviewer: ACL Rolling 2021
+* Reviewer: EMNLP/ACL/IEEE-TASLP 2021
+-->
+Reviewer (Since 2021): ACL, NAACL, AACL, ACL Roling, EMNLP, COLING, ICLR, ICML, IJCAI, AAAI, NeurIPS
 
 
 ## Pre-doctoral Student Mentoring
