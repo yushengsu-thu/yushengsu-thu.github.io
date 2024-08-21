@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Yu-Sheng (Ethan) Su. I am a research scientist at AMD [GenAI team](https://zicliu.wixsite.com/mysite) (is hiring 🔥) and work on large-scale foundation models, especially focusing on data and architecture. Before I joined AMD, I was a Postdoctoral Researcher hosted by [Eric Xing](http://www.cs.cmu.edu/~epxing/) from [CMU](https://www.cmu.edu/) / [MBZUAI](https://mbzuai.ac.ae/). I completed my Ph.D. in 2023 from the [Department of Computer Science and Technology](http://www.cs.tsinghua.edu.cn/) at [Tsinghua University](https://www.tsinghua.edu.cn/publish/thu2018en/index.html). Throughout my Ph.D. (from 2019 to 2023), I had the privilege of being advised by [Zhiyuan Liu](https://scholar.google.com/citations?user=dT0v5u0AAAAJ&hl=zh-TW) and being a part of the [THUNLP Lab](https://github.com/thunlp) hosted by [Maosong Sun](https://www.cs.tsinghua.edu.cn/csen/info/1180/4033.htm). Besides, I worked closely with some LLM start-up teams including [ModelBest](https://github.com/OpenBMB) and [llm360](https://www.llm360.ai/). 
+My name is Yu-Sheng (Ethan) Su. I am a research scientist at AMD [GenAI team](https://zicliu.wixsite.com/mysite) (is hiring 🔥) and work on large-scale foundation models, especially focusing on data, model architecture, and training efficiency optimization. Before I joined AMD, I was a Postdoctoral Researcher hosted by [Eric Xing](http://www.cs.cmu.edu/~epxing/) from [CMU](https://www.cmu.edu/) / [MBZUAI](https://mbzuai.ac.ae/). I completed my Ph.D. in [Department of Computer Science and Technology](http://www.cs.tsinghua.edu.cn/) at [Tsinghua University](https://www.tsinghua.edu.cn/publish/thu2018en/index.html). Throughout my Ph.D. (from 2019 to 2023), I had the privilege of being advised by [Zhiyuan Liu](https://scholar.google.com/citations?user=dT0v5u0AAAAJ&hl=zh-TW) and being a part of the [THUNLP Lab](https://github.com/thunlp) hosted by [Maosong Sun](https://www.cs.tsinghua.edu.cn/csen/info/1180/4033.htm). Besides, I worked closely with some LLM start-up teams including [ModelBest](https://github.com/OpenBMB) and [llm360](https://www.llm360.ai/). 
 
 <!--
 For further details on my academic research and experience, please refer to my [[Google Scholar](https://scholar.google.com/citations?user=xwy6Va4AAAAJ&hl=en)].
@@ -28,7 +28,9 @@ AMD's GenAI team focuses on building a series of foundation models and is hiring
 
 
 ## Research
-My research goal is to develop models that advance toward AGI. Currently, I focus on scaling data volume and quality, as well as enhancing architectural efficiency, to push the boundaries of model capabilities and facilitate large-scale model development.
+My research goal is to develop models that progress toward achieving AGI. I am currently focusing on three key areas: scaling data volume and quality, enhancing the robustness of model architecture, and optimizing training efficiency. By pursuing these objectives, I aim to break through the boundaries of the existing state-of-the-art model capabilities and facilitate its rapid iterative development.
+
+
 
 <!--
 My research spans the areas of natural language processing and machine learning, specifically focusing on <b>large language models (LLMs)</b>. I am particularly interested in how to better pre-train, fine-tune/instruction-tune, evaluate LLMs, and advance them in real-world scenarios. Thus, my research broadly covers the following topics:
