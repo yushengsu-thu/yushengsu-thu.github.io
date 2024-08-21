@@ -24,7 +24,7 @@ I'm on the job market, looking for academic and industrial research positions re
 <!-- (in North America) -->
 
 ## Hiring
-AMD's GenAI team focuses on building a series of foundation models and is hiring 🔥 for multiple roles. [Click here](https://zicliu.wixsite.com/mysite) to know more, and feel free to reach out to me if you’re interested, especially in the intern openings.
+AMD's GenAI team focuses on building a series of foundation models and is hiring 🔥 for multiple roles, including Principal Research Scientist, Applied Research Scientist, and Research Intern. [Click here](https://zicliu.wixsite.com/mysite) to know more, and feel free to reach me out if you’re interested in the openings.
 
 
 ## Research
@@ -231,7 +231,7 @@ Reviewer (Since 2021): ACL, NAACL, AACL, ACL Roling, EMNLP, COLING, ICLR, ICML, 
 * Deep/Machine Learning Engineer Intern
 * Advised by Jing-Han Wang.
 
-### Microsoft (Taiwan) 2015 - 2016
+### Microsoft 2015 - 2016
 * Research and Development Intern
 * Advised by [Kuang-Chao Yeh](https://www.linkedin.com/in/kuang-chao-yeh/) and [Gordon Chang](https://www.linkedin.com/in/gordonwinnow).
 
