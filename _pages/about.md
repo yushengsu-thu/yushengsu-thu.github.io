@@ -204,20 +204,20 @@ ArXiv 2023. [[pdf](https://arxiv.org/abs/2304.08354)] [[code](https://github.com
 
 ## Experiences
 
-### Sailing Lab - CMU (U.S) & MBZUAI (U.A.E) 2023 - 2024
+### Sailing Lab - CMU (U.S) & MBZUAI (U.A.E), 2023 - 2024
 * Postdoctoral Researcher
 * Advised and hosted by [Eric P. Xing](https://www.cs.cmu.edu/~epxing/) 
 
-### THUNLP Lab - Tsinghua University (China) 2019 - 2023
+### THUNLP Lab - Tsinghua University (China), 2019 - 2023
 * Ph.D
 * Advised by [Zhiyuan Liu](http://nlp.csai.tsinghua.edu.cn/~lzy/)
 * Hosted by [Maosong Sun](https://www.cs.tsinghua.edu.cn/csen/info/1180/4033.htm)
 
-### MediaTek (Taiwan) 2018 - 2019
+### MediaTek (Taiwan), 2018 - 2019
 * Deep/Machine Learning Engineer Intern
 * Advised by Jing-Han Wang.
 
-### Microsoft 2015 - 2016
+### Microsoft, 2015 - 2016
 * Research and Development Intern
 * Advised by [Kuang-Chao Yeh](https://www.linkedin.com/in/kuang-chao-yeh/) and [Gordon Chang](https://www.linkedin.com/in/gordonwinnow).
 
