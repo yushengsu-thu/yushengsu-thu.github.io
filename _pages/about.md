@@ -196,6 +196,8 @@ ArXiv 2023. [[pdf](https://arxiv.org/abs/2304.08354)] [[code](https://github.com
   
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TsinghuaAI&repo=CPM)](https://github.com/TsinghuaAI/CPM)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TsinghuaAI&repo=CPM-1-Generate)](https://github.com/TsinghuaAI/CPM)
+
 <!--
 ## Teaching
 * [Jul. 2022] Tsinghu University - NLP Big Model Course (Summer) [link](https://www.bilibili.com/video/BV1UG411p7zv?p=1&unique_k=OwC3PgP)
