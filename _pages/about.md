@@ -24,12 +24,12 @@ I'm on the job market, looking for academic and industrial research positions re
 <!-- (in North America) -->
 
 ## Hiring
-AMD's GenAI team focuses on building a series of foundation models and is hiring 🔥 for multiple roles, including Principal Research Scientist, Applied Research Scientist, and Research Intern. [Click here](https://zicliu.wixsite.com/mysite) to know more, and feel free to reach me out if you’re interested in the openings.
+AMD's GenAI team focuses on building a series of foundation models and is hiring 🔥 for multiple roles, including Principal Research Scientist, Applied Research Scientist, and Research Intern. [[Click here](https://zicliu.wixsite.com/mysite)] to know more and feel free to reach me out if you’re interested in.
 
 
 ## Research
-My research goal is to develop models that progress toward achieving AGI [[Google Scholar](https://scholar.google.com/citations?user=xwy6Va4AAAAJ&hl=en)] [[GitHub](https://github.com/yushengsu-thu)]. I am currently focusing on three key areas: (1) scaling data volume and quality, (2) enhancing the robustness of model architecture, and (3) optimizing training efficiency. By pursuing these objectives, I aim to break through the boundaries of the existing state-of-the-art model capabilities and facilitate its rapid iterative development.
 
+My primary work and research focus on advancing models toward achieving AGI. Thus, I concentrate on three key areas: (1) scaling data volume and quality, (2) enhancing the robustness of model architectures, and (3) optimizing training efficiency to push beyond the boundaries of current state-of-the-art model capabilities and facilitate rapid its iterative development [[Google Scholar](https://scholar.google.com/citations?user=xwy6Va4AAAAJ&hl=en)] [[GitHub](https://github.com/yushengsu-thu)].
 
 
 <!--
