@@ -69,6 +69,7 @@ Recently, I am more focus on:
 * [Feb. 2021] Got one paper accepted at WWW 2021. 
 * [Aug. 2020] Got one paper accepted at EMNLP 2020. 
 </font> -->
+* [Sep. 2024] [Andrew Ng](https://en.wikipedia.org/wiki/Andrew_Ng) highlights our work - [ChatDev](https://github.com/OpenBMB/ChatDev) at [Sequoia Capital talk](https://www.youtube.com/watch?v=sal78ACtGTc&t=559s).
 * [Aug. 2024] Joined [AMD](https://www.amd.com/en.html) [GenAI team](https://zicliu.wixsite.com/mysite). We are hiring 🔥.
 * [May. 2024] Thrilled to announce that [ChatDev](https://arxiv.org/abs/2307.07924) was accepted by ACL 2024.
 * [May. 2024] I will attend ICLR (Vienna, Austria) conference. Let's grab a coffee. Welcome DM me via [Twitter](https://twitter.com/thu_yushengsu).
@@ -95,7 +96,7 @@ Recently, I am more focus on:
 
 ## Publications
 
-* <b>Communicative agents for software development</b>\
+* <b>ChatDev Communicative agents for software development</b>\
 *Chen Qian, Xin Cong, Cheng Yang, Weize Chen, <b>Yusheng Su</b>, Juyuan Xu, Zhiyuan Liu, Maosong Sun*\
 ACL 2024. [[pdf](https://arxiv.org/abs/2307.07924)] [[code](https://github.com/openbmb/chatdev)]
 
@@ -181,7 +182,8 @@ ArXiv 2023. [[pdf](https://arxiv.org/abs/2304.08354)] [[code](https://github.com
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OpenBMB&repo=XAgent)](https://github.com/OpenBMB/XAgent)
 
 
-* (Member) <b>ChatDev</b>. ChatDev creates customized software using natural language ideas through LLM-powered multi-agent collaboration. [[Youtube1](https://www.youtube.com/watch?v=yoAWsIfEzCw)], [[Youtube2](https://www.youtube.com/watch?v=QPBmsgGufXE)], [[Andrew Ng's talk](https://www.youtube.com/watch?v=sal78ACtGTc&t=559s)]
+* (Member) <b>ChatDev</b>. ChatDev creates customized software using natural language ideas through LLM-powered multi-agent collaboration. [[Youtube1](https://www.youtube.com/watch?v=yoAWsIfEzCw)], [[Youtube2](https://www.youtube.com/watch?v=QPBmsgGufXE)], [[Andrew Ng highlights our work at 
+Sequoia Capital talk](https://www.youtube.com/watch?v=sal78ACtGTc&t=559s)]
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OpenBMB&repo=ChatDev)](https://github.com/OpenBMB/ChatDev)
 
