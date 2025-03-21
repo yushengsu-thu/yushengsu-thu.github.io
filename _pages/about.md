@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Yu-Sheng (Ethan) Su. I am a research scientist at AMD [GenAI team](https://zicliu.wixsite.com/mysite) (is hiring 🔥) and work on large-scale foundation models, especially focusing on data, model architecture, and training efficiency optimization. Before I joined AMD, I was a Postdoctoral Researcher hosted by [Eric Xing](http://www.cs.cmu.edu/~epxing/) from [CMU](https://www.cmu.edu/) / [MBZUAI](https://mbzuai.ac.ae/). I completed my Ph.D. in [Department of Computer Science and Technology](http://www.cs.tsinghua.edu.cn/) at [Tsinghua University](https://www.tsinghua.edu.cn/publish/thu2018en/index.html). Throughout my Ph.D. (from 2019 to 2023), I had the privilege of being advised by [Zhiyuan Liu](https://scholar.google.com/citations?user=dT0v5u0AAAAJ&hl=zh-TW) and being a part of the [THUNLP Lab](https://github.com/thunlp) hosted by [Maosong Sun](https://www.cs.tsinghua.edu.cn/csen/info/1180/4033.htm). Besides, I worked closely with some LLM start-up teams including [ModelBest](https://github.com/OpenBMB) and [llm360](https://www.llm360.ai/). 
+My name is Yu-Sheng (Ethan) Su. I am a research scientist at AMD [GenAI team](https://zicliu.wixsite.com/mysite) (is hiring 🔥) and work on large-scale foundation models, especially focusing on pre-training/post-training framework and training efficiency optimization. Before I joined AMD, I was a Postdoctoral Researcher hosted by [Eric Xing](http://www.cs.cmu.edu/~epxing/) from [CMU](https://www.cmu.edu/) / [MBZUAI](https://mbzuai.ac.ae/). I completed my Ph.D. in [Department of Computer Science and Technology](http://www.cs.tsinghua.edu.cn/) at [Tsinghua University](https://www.tsinghua.edu.cn/publish/thu2018en/index.html). Throughout my Ph.D. (from 2019 to 2023), I had the privilege of being advised by [Zhiyuan Liu](https://scholar.google.com/citations?user=dT0v5u0AAAAJ&hl=zh-TW) and being a part of the [THUNLP Lab](https://github.com/thunlp) hosted by [Maosong Sun](https://www.cs.tsinghua.edu.cn/csen/info/1180/4033.htm). Besides, I worked closely with some LLM start-up teams including [ModelBest](https://github.com/OpenBMB) and [llm360](https://www.llm360.ai/). 
 
 <!--
 For further details on my academic research and experience, please refer to my [[Google Scholar](https://scholar.google.com/citations?user=xwy6Va4AAAAJ&hl=en)].
@@ -28,8 +28,7 @@ AMD's GenAI team focuses on building a series of foundation models and is hiring
 
 
 ## Research
-
-My primary work and research focus on advancing models toward achieving AGI. Thus, I concentrate on three key areas: (1) scaling data volume and quality, (2) enhancing the robustness of model architectures, and (3) optimizing training efficiency to push beyond the boundaries of current state-of-the-art model capabilities and facilitate rapid its iterative development [[Google Scholar](https://scholar.google.com/citations?user=xwy6Va4AAAAJ&hl=en)] [[GitHub](https://github.com/yushengsu-thu)].
+My primary work and research focus on advancing models toward achieving AGI. Thus, I concentrate on the following key areas: (1) scaling pre-training and post-training frameworks, (2) improving efficiency, and (3) designing inference/agent engines to facilitate the rapid iterative development of foundation models. [[Google Scholar](https://scholar.google.com/citations?user=xwy6Va4AAAAJ&hl=en)] [[GitHub](https://github.com/yushengsu-thu)].
 
 
 <!--
@@ -69,6 +68,8 @@ Recently, I am more focus on:
 * [Feb. 2021] Got one paper accepted at WWW 2021. 
 * [Aug. 2020] Got one paper accepted at EMNLP 2020. 
 </font> -->
+* [Mar. 2025] Thrilled to announce that we've established a collaboration and integrated AMD ROCm support into [VeRL](https://www.linkedin.com/feed/update/urn:li:activity:7305685735947268096/).
+* [Jan. 2025] Thrilled to announce that [Agen Laboratory](https://arxiv.org/abs/2501.04227) released and reward 3.9k stars on [Github](https://github.com/SamuelSchmidgall/AgentLaboratory).
 * [Sep. 2024] [Andrew Ng](https://en.wikipedia.org/wiki/Andrew_Ng) highlights our work - [ChatDev](https://github.com/OpenBMB/ChatDev) at [Sequoia Capital talk](https://www.youtube.com/watch?v=sal78ACtGTc&t=559s).
 * [Aug. 2024] Joined [AMD](https://www.amd.com/en.html) [GenAI team](https://zicliu.wixsite.com/mysite). We are hiring 🔥.
 * [May. 2024] Thrilled to announce that [ChatDev](https://arxiv.org/abs/2307.07924) was accepted by ACL 2024.
@@ -95,6 +96,10 @@ Recently, I am more focus on:
 
 
 ## Publications
+
+* <b>Tool Learning with Foundation Models</b>\
+*Yujia Qin, Shengding Hu, Yankai Lin, Weize Chen, Ning Ding, Ganqu Cui, Zheni Zeng, Yufei Huang, Chaojun Xiao, Chi Han, Yi Ren Fung, <b>Yusheng Su</b>, Huadong Wang, Cheng Qian, Runchu Tian, Kunlun Zhu, Shihao Liang, Xingyu Shen, Bokai Xu, Zhen Zhang, Yining Ye, Bowen Li, Ziwei Tang, Jing Yi, Yuzhang Zhu, Zhenning Dai, Lan Yan, Xin Cong, Yaxi Lu, Weilin Zhao, Yuxiang Huang, Junxi Yan, Xu Han, Xian Sun, Dahai Li, Jason Phang, Cheng Yang, Tongshuang Wu, Heng Ji, Zhiyuan Liu, Maosong Sun*\
+ACM 2025. [[pdf](https://arxiv.org/abs/2304.08354)] [[code](https://github.com/OpenBMB/BMTools)] 
 
 * <b>ChatDev Communicative agents for software development</b>\
 *Chen Qian, Xin Cong, Cheng Yang, Weize Chen, <b>Yusheng Su</b>, Juyuan Xu, Zhiyuan Liu, Maosong Sun*\
@@ -144,13 +149,9 @@ EMNLP 2020 Findings, AI OPEN 2021. [[pdf](https://arxiv.org/abs/2009.13964)] [[p
 
 ## Under Review or Preprint Version <!-- Submitted for Publications-->
 
-* <b>Human Emotion Knowledge Representation Emerges in Large Language Models and Supports Discrete Emotion Inference</b>\
-*<b>Yusheng Su</b><sup><big>*</big></sup>, Ming Li<sup><big>*</big></sup>, Hsiu-Yuan Huang, Jiali Cheng, Xin Hu, Xinmiao Zhang, Huadong Wang, Yujia Qin, Xiaozhi Wang, Zhiyuan Liu, Dan Zhang* (&nbsp;<sup><big>*</big></sup> indicates equal contribution)\
-(Submitted to Nature Human Behaviour 2023). [[pdf](https://arxiv.org/abs/2302.09582)] [[code](https://github.com/thunlp/OpenNeuron)] <small>(Refactoring - User friendly toolkit coming soon)</small>
-
-* <b>Tool Learning with Foundation Models</b>\
-*Yujia Qin, Shengding Hu, Yankai Lin, Weize Chen, Ning Ding, Ganqu Cui, Zheni Zeng, Yufei Huang, Chaojun Xiao, Chi Han, Yi Ren Fung, <b>Yusheng Su</b>, Huadong Wang, Cheng Qian, Runchu Tian, Kunlun Zhu, Shihao Liang, Xingyu Shen, Bokai Xu, Zhen Zhang, Yining Ye, Bowen Li, Ziwei Tang, Jing Yi, Yuzhang Zhu, Zhenning Dai, Lan Yan, Xin Cong, Yaxi Lu, Weilin Zhao, Yuxiang Huang, Junxi Yan, Xu Han, Xian Sun, Dahai Li, Jason Phang, Cheng Yang, Tongshuang Wu, Heng Ji, Zhiyuan Liu, Maosong Sun*\
-ArXiv 2023. [[pdf](https://arxiv.org/abs/2304.08354)] [[code](https://github.com/OpenBMB/BMTools)] 
+<b>Agent Laboratory: Using LLM Agents as Research Assistants</b>\
+*Samuel Schmidgall, <b>Yusheng Su</b>, Ze Wang, Ximeng Sun, Jialian Wu, Xiaodong Yu, Jiang Liu, Zicheng Liu, Emad Barsoum*\
+Arxiv 2025. [[pdf](https://arxiv.org/abs/2501.04227)] [[code](https://github.com/SamuelSchmidgall/AgentLaboratory)]
 
 
 
@@ -165,12 +166,22 @@ ArXiv 2023. [[pdf](https://arxiv.org/abs/2304.08354)] [[code](https://github.com
 
 ## Efficient Training Projects
 
+* (Contributor) <b>VeRL</b>. RLHF framework
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=volcengine&repo=verl)](https://github.com/volcengine/verl)
+
+
 * (Leader/Co-leader) <b>Prompt Transferability</b>. This system assists users in building a prompt bank, allowing them to save well-trained prompts. It also enables swift access and reuse of these prompts whenever the user requires them on unseen tasks and heterogeneous models.
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thunlp&repo=Prompt-Transferability)](https://github.com/thunlp/Prompt-Transferability)
 
 
 ## Agents Projects
+
+* (Leader/Co-leader) <b>AgentVerse</b>. Agent Laboratory [[pdf](https://arxiv.org/abs/2501.04227)] [[code](https://github.com/SamuelSchmidgall/AgentLaboratory)].
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SamuelSchmidgall&repo=AgentLaboratory)](https://github.com/SamuelSchmidgall/AgentLaboratory)
+
 
 * (Leader/Co-leader) <b>AgentVerse</b>. AgentVerse provides a framework that streamlines the process of developing custom multi-agent systems using LLMs in user-defined environments. This facilitates the design of more efficient multi-agent systems that can be applied to real-world applications. [[NVIDIA's Official Bolg](https://developer.nvidia.com/blog/building-your-first-llm-agent-application/)], [[Youtube1](https://www.youtube.com/watch?v=37vcapVCcbM)], [[Youtube2](https://www.youtube.com/watch?v=cbqE6PC9fGQ&t=512s)]
 
@@ -234,6 +245,7 @@ Sequoia Capital talk](https://www.youtube.com/watch?v=sal78ACtGTc&t=559s)]
 * Reviewer: ACL Rolling 2021
 * Reviewer: EMNLP/ACL/IEEE-TASLP 2021
 -->
+Area Chair (Since 2025): ACL
 Reviewer (Since 2021): ACL, NAACL, AACL, ACL Roling, EMNLP, COLING, ICLR, ICML, IJCAI, AAAI, NeurIPS
 
 
