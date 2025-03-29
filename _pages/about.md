@@ -166,7 +166,7 @@ Arxiv 2025. [[pdf](https://arxiv.org/abs/2501.04227)] [[code](https://github.com
 
 ## Efficient Training Projects
 
-* (Contributor) <b>VeRL</b>, (Leader) <b>VeRL-AMD(ROCM version)</b>. Efficient scalable RLHF framework to build O1/R1-series models. 
+* (Collaborator) <b>VeRL</b>, (Leader) <b>VeRL-AMD(ROCM version)</b>. Efficient scalable RLHF framework to build O1/R1-series models. 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=volcengine&repo=verl)](https://github.com/volcengine/verl)
 
@@ -178,7 +178,7 @@ Arxiv 2025. [[pdf](https://arxiv.org/abs/2501.04227)] [[code](https://github.com
 
 ## Agents Projects
 
-* (Leader/Co-leader) <b>AgentVerse</b>. Agent Laboratory [[pdf](https://arxiv.org/abs/2501.04227)] [[code](https://github.com/SamuelSchmidgall/AgentLaboratory)].
+* (Leader/Co-leader) <b>Agent Laboratory</b>. Agent Laboratory [[pdf](https://arxiv.org/abs/2501.04227)] [[code](https://github.com/SamuelSchmidgall/AgentLaboratory)].
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SamuelSchmidgall&repo=AgentLaboratory)](https://github.com/SamuelSchmidgall/AgentLaboratory)
 
