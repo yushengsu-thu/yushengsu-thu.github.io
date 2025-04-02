@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yu-Sheng (Ethan) Su"
+title                    : "Yusheng (Ethan) Su"
 title_separator          : "-"
-name                     : &name "Yu-Sheng (Ethan) Su"
+name                     : &name "Yusheng (Ethan) Su"
 description              : &description "LLM researcher"
 url                      : https://yushengsu-thu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
