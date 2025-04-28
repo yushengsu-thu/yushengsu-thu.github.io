@@ -250,10 +250,9 @@ Area Chair (Since 2025): ACL
 Reviewer (Since 2021): ACL, NAACL, AACL, ACL Roling, EMNLP, COLING, ICLR, ICML, IJCAI, AAAI, NeurIPS
 
 
-## Pre-doctoral Student Mentoring
+## Student Mentoring / Collaboration
 * (Since 2024-) [Samuel Schmidgall](https://samuelschmidgall.github.io/): Johns Hopkins University (PhD) -> Google Deepmind 
-* (Since 2021-2023) [Chi-Min Chan](https://scholar.google.com/citations?user=5U4P54wAAAAJ&oi=ao): Tsinghua University (BS) -> Hong Kong University of Science and Technology (HKUST) (MS) 
-* (Since 2022-2023) Jiali Cheng: University of North Carolina (MS->PhD)  
+* (Since 2021-2023) [Chi-Min Chan](https://scholar.google.com/citations?user=5U4P54wAAAAJ&oi=ao): Tsinghua University (BS) -> Hong Kong University of Science and Technology (HKUST) (PhD) 
 * (Since 2022-2023) Yu Xia: Peking University (MS) -> Tsinghua University (PhD)  
 * (Since 2022-2023) Xiuyuan Huang: University of Science and Technology Beijing (BS) -> Peking University (MS)
 
