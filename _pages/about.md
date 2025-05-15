@@ -166,7 +166,7 @@ Arxiv 2025. [[pdf](https://arxiv.org/abs/2501.04227)] [[code](https://github.com
 
 ## Efficient Training Projects
 
-* (Collaborator) <b>VeRL</b>, (Leader) <b>VeRL-AMD(ROCM version)</b>. Efficient scalable RLHF framework to build O1/R1-series models. 
+* (Collaborator) <b>VeRL</b>, (Leader) <b>VeRL-AMD (ROCM version)</b>. Efficient scalable RLHF framework to build O1/R1-series models. [[code](https://github.com/volcengine/verl)] [[blog](https://rocm.blogs.amd.com/artificial-intelligence/verl-large-scale/README.html)]
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=volcengine&repo=verl)](https://github.com/volcengine/verl)
 
