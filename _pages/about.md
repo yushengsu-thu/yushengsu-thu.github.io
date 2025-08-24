@@ -68,12 +68,14 @@ Recently, I am more focus on:
 * [Feb. 2021] Got one paper accepted at WWW 2021. 
 * [Aug. 2020] Got one paper accepted at EMNLP 2020. 
 </font> -->
-* [Mar. 2025] Thrilled to announce that we've established a collaboration and integrated AMD ROCm support into [VeRL](https://www.linkedin.com/feed/update/urn:li:activity:7305685735947268096/).
+* [Aug. 2025] Create the [rlsys dockerhub](https://hub.docker.com/repositories/rlsys) to support AMD MI-series GPUs on the RL training framework. If you encounter any questions, feel free to leave an issue on the corresponding upstream RL projects, and feel welcome to discuss with me. (Note: Note: I am working on this in my casual time and have not committed to resolving every issue you encounter on time, nor to improving performance to the level of your expectations. If you require such support, please contact AMD’s official support channels.)
+* [July. 2025] Thrilled to announce that I integrated AMD ROCm support into slime - [Blog](https://lmsys.org/blog/2025-07-09-slime/), [PR](https://github.com/THUDM/slime/pulls?q=is%3Apr+Hardware+is%3Aclosed), and [Docker](https://hub.docker.com/repository/docker/rlsys/slime/general).
+* [Mar. 2025] Thrilled to announce that I integrated AMD ROCm support into [verl](https://www.linkedin.com/feed/update/urn:li:activity:7305685735947268096/).
 * [Jan. 2025] Thrilled to announce that [Agen Laboratory](https://arxiv.org/abs/2501.04227) released and reward 3.9k stars on [Github](https://github.com/SamuelSchmidgall/AgentLaboratory).
 * [Sep. 2024] [Andrew Ng](https://en.wikipedia.org/wiki/Andrew_Ng) highlights our work - [ChatDev](https://github.com/OpenBMB/ChatDev) at [Sequoia Capital talk](https://www.youtube.com/watch?v=sal78ACtGTc&t=559s).
 * [Aug. 2024] Joined [AMD](https://www.amd.com/en.html) [GenAI team](https://zicliu.wixsite.com/mysite). We are hiring 🔥.
 * [May. 2024] Thrilled to announce that [ChatDev](https://arxiv.org/abs/2307.07924) was accepted by ACL 2024.
-* [May. 2024] I will attend ICLR (Vienna, Austria) conference. Let's grab a coffee. Welcome DM me via [Twitter](https://twitter.com/thu_yushengsu).
+* [May. 2024] I will attend ICLR (Vienna, Austria) conference. Let's grab a coffee. Welcome, DM me via [Twitter](https://twitter.com/thu_yushengsu).
 * [Mar. 2024] Invited Research Talk at [Microsoft Research - AI Frontiers](https://www.microsoft.com/en-us/research/lab/ai-frontiers/) hosted by [Guoqing Zheng](https://www.microsoft.com/en-us/research/people/zheng/). Topic: Efficient Tuning of Large-scale Pre-trained Language Models (LLMs) [[slide](https://drive.google.com/file/d/1zo5aGkeOw16PoUYPxjW_2xllAValW_1x/view?usp=sharing)]
 * [Feb. 2024] Invited Research Talk at [Microsoft Research - Semantic Machines](https://www.microsoft.com/en-us/research/group/semantic-machines/) hosted by [Ben Van Durme](https://www.microsoft.com/en-us/research/people/bevandur/). Topic: Next-Generation Co-pilot: From Assistant Agent to Autonomy Agent [[slide](https://drive.google.com/file/d/12M7O3cq8cJX7XXxUMG4IkkwuYP5s8nAh/view?usp=sharing)]
 * [Jan. 2024] Thrilled to announce that [AgentVerse](https://openreview.net/forum?id=EHg5GDnyq1) and [ChatEval](https://openreview.net/forum?id=FQepisCUWu) were accepted by ICLR 2024.
