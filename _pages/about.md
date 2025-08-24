@@ -68,7 +68,9 @@ Recently, I am more focus on:
 * [Feb. 2021] Got one paper accepted at WWW 2021. 
 * [Aug. 2020] Got one paper accepted at EMNLP 2020. 
 </font> -->
-* [Aug. 2025] Create the [rlsys dockerhub](https://hub.docker.com/repositories/rlsys) to support AMD MI-series GPUs on the RL training framework. If you encounter any questions, feel free to leave an issue on the corresponding upstream RL projects, and feel welcome to discuss with me. (Note: Note: I am working on this in my casual time and have not committed to resolving every issue you encounter on time, nor to improving performance to the level of your expectations. If you require such support, please contact AMD’s official support channels.)
+
+
+* [Aug. 2025] Create the [rlsys dockerhub](https://hub.docker.com/repositories/rlsys) to support AMD MI-series GPUs on the RL training framework. 
 * [July. 2025] Thrilled to announce that I integrated AMD ROCm support into slime - [Blog](https://lmsys.org/blog/2025-07-09-slime/), [PR](https://github.com/THUDM/slime/pulls?q=is%3Apr+Hardware+is%3Aclosed), and [Docker](https://hub.docker.com/repository/docker/rlsys/slime/general).
 * [Mar. 2025] Thrilled to announce that I integrated AMD ROCm support into [verl](https://www.linkedin.com/feed/update/urn:li:activity:7305685735947268096/).
 * [Jan. 2025] Thrilled to announce that [Agen Laboratory](https://arxiv.org/abs/2501.04227) released and reward 3.9k stars on [Github](https://github.com/SamuelSchmidgall/AgentLaboratory).
@@ -168,7 +170,13 @@ Arxiv 2025. [[pdf](https://arxiv.org/abs/2501.04227)] [[code](https://github.com
 
 ## Efficient Training Projects
 
-* (Collaborator) <b>VeRL</b>, (Leader) <b>VeRL-AMD (ROCM version)</b>. Efficient scalable RLHF framework to build O1/R1-series models. [[code](https://github.com/volcengine/verl)] [[blog](https://rocm.blogs.amd.com/artificial-intelligence/verl-large-scale/README.html)]
+
+* (Leader) <b>slime (ROCM version)</b> SGLang-based scalable efficient RL framework. [[Blog](https://lmsys.org/blog/2025-07-09-slime/)], [[PR](https://github.com/THUDM/slime/pulls?q=is%3Apr+Hardware+is%3Aclosed)], [[Docker](https://hub.docker.com/repository/docker/rlsys/slime/general)]
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=THUDM&repo=slime)](https://github.com/THUDM/slime)
+
+
+* (Collaborator) <b>verl</b>, (Leader) <b>VeRL-AMD (ROCM version)</b>. Efficient scalable RLHF framework to build O1/R1-series models. [[code](https://github.com/volcengine/verl)] [[blog](https://rocm.blogs.amd.com/artificial-intelligence/verl-large-scale/README.html)]
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=volcengine&repo=verl)](https://github.com/volcengine/verl)
 
