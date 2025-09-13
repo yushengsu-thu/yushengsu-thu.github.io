@@ -23,9 +23,10 @@ I'm on the job market, looking for academic and industrial research positions re
 <!-- [[CV]](https://www.dropbox.com/s/4j059nncu2k6lrf/Yusheng_Su_Resume_2023_05_15.pdf?dl=0) -->
 <!-- (in North America) -->
 
+<!--
 ## Hiring
 AMD's GenAI team focuses on building a series of foundation models and is hiring 🔥 for multiple roles, including Principal Research Scientist, Applied Research Scientist, and Research Intern. [[Click here](https://zicliu.wixsite.com/mysite)] to know more and feel free to reach me out if you’re interested in.
-
+-->
 
 ## Research
 My primary work and research focus on advancing models toward achieving AGI. Thus, I concentrate on the following key areas: (1) scaling pre-training and post-training frameworks, (2) improving efficiency, and (3) designing inference/agent engines to facilitate the rapid iterative development of foundation models. [[Google Scholar](https://scholar.google.com/citations?user=xwy6Va4AAAAJ&hl=en)] [[GitHub](https://github.com/yushengsu-thu)].
@@ -77,7 +78,7 @@ Recently, I am more focus on:
 * [Sep. 2024] [Andrew Ng](https://en.wikipedia.org/wiki/Andrew_Ng) highlights our work - [ChatDev](https://github.com/OpenBMB/ChatDev) at [Sequoia Capital talk](https://www.youtube.com/watch?v=sal78ACtGTc&t=559s).
 * [Aug. 2024] Joined [AMD](https://www.amd.com/en.html) [GenAI team](https://zicliu.wixsite.com/mysite). We are hiring 🔥.
 * [May. 2024] Thrilled to announce that [ChatDev](https://arxiv.org/abs/2307.07924) was accepted by ACL 2024.
-* [May. 2024] I will attend ICLR (Vienna, Austria) conference. Let's grab a coffee. Welcome, DM me via [Twitter](https://twitter.com/thu_yushengsu).
+* [May. 2024] I will attend the ICLR (Vienna, Austria) conference. Let's grab a coffee. Welcome, DM me via [Twitter](https://twitter.com/thu_yushengsu).
 * [Mar. 2024] Invited Research Talk at [Microsoft Research - AI Frontiers](https://www.microsoft.com/en-us/research/lab/ai-frontiers/) hosted by [Guoqing Zheng](https://www.microsoft.com/en-us/research/people/zheng/). Topic: Efficient Tuning of Large-scale Pre-trained Language Models (LLMs) [[slide](https://drive.google.com/file/d/1zo5aGkeOw16PoUYPxjW_2xllAValW_1x/view?usp=sharing)]
 * [Feb. 2024] Invited Research Talk at [Microsoft Research - Semantic Machines](https://www.microsoft.com/en-us/research/group/semantic-machines/) hosted by [Ben Van Durme](https://www.microsoft.com/en-us/research/people/bevandur/). Topic: Next-Generation Co-pilot: From Assistant Agent to Autonomy Agent [[slide](https://drive.google.com/file/d/12M7O3cq8cJX7XXxUMG4IkkwuYP5s8nAh/view?usp=sharing)]
 * [Jan. 2024] Thrilled to announce that [AgentVerse](https://openreview.net/forum?id=EHg5GDnyq1) and [ChatEval](https://openreview.net/forum?id=FQepisCUWu) were accepted by ICLR 2024.
