@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Ethan (Yusheng) Su. I am a research scientist at AMD [GenAI team](https://zicliu.wixsite.com/mysite) (is hiring 🔥) and work on large-scale foundation models, especially focusing on pre-training/post-training framework and training efficiency optimization. Before I joined AMD, I was a Postdoctoral Researcher hosted by [Eric Xing](http://www.cs.cmu.edu/~epxing/) from [CMU](https://www.cmu.edu/) / [MBZUAI](https://mbzuai.ac.ae/). I completed my Ph.D. in [Department of Computer Science and Technology](http://www.cs.tsinghua.edu.cn/) at [Tsinghua University](https://www.tsinghua.edu.cn/publish/thu2018en/index.html). Throughout my Ph.D. (from 2019 to 2023), I had the privilege of being advised by [Zhiyuan Liu](https://scholar.google.com/citations?user=dT0v5u0AAAAJ&hl=zh-TW) and being a part of the [THUNLP Lab](https://github.com/thunlp) hosted by [Maosong Sun](https://www.cs.tsinghua.edu.cn/csen/info/1180/4033.htm). Besides, I worked closely with some LLM start-up teams, including [ModelBest](https://github.com/OpenBMB) and [llm360](https://www.llm360.ai/). 
+My name is Ethan (Yusheng) Su. I am a research scientist at AMD [GenAI team](https://zicliu.wixsite.com/mysite) (is hiring 🔥) and work on foundation models, especially focusing on pre-training/post-training framework and training efficiency optimization. Before I joined AMD, I was a Postdoctoral Researcher hosted by [Eric Xing](http://www.cs.cmu.edu/~epxing/) from [CMU](https://www.cmu.edu/) / [MBZUAI](https://mbzuai.ac.ae/). I completed my Ph.D. in [Department of Computer Science and Technology](http://www.cs.tsinghua.edu.cn/) at [Tsinghua University](https://www.tsinghua.edu.cn/publish/thu2018en/index.html). Throughout my Ph.D. (from 2019 to 2023), I had the privilege of being advised by [Zhiyuan Liu](https://scholar.google.com/citations?user=dT0v5u0AAAAJ&hl=zh-TW) and being a part of the [THUNLP Lab](https://github.com/thunlp) hosted by [Maosong Sun](https://www.cs.tsinghua.edu.cn/csen/info/1180/4033.htm). Besides, I worked closely with some LLM start-up teams, including [ModelBest](https://github.com/OpenBMB). 
 
 <!--
 For further details on my academic research and experience, please refer to my [[Google Scholar](https://scholar.google.com/citations?user=xwy6Va4AAAAJ&hl=en)].
@@ -29,7 +29,7 @@ AMD's GenAI team focuses on building a series of foundation models and is hiring
 -->
 
 ## Research
-My primary work and research focus on advancing models toward achieving AGI. Thus, I concentrate on the following key areas: (1) scaling pre-training and post-training frameworks, (2) improving efficiency, and (3) designing inference/agent engines to facilitate the rapid iterative development of foundation models. [[Google Scholar](https://scholar.google.com/citations?user=xwy6Va4AAAAJ&hl=en)] [[GitHub](https://github.com/yushengsu-thu)].
+My recent work focuses on LLMs, particularly in post-training (SFT/RL). Specifically, I focus on: (1) scaling training scale by optimizing frameworks, (2) improving efficiency, and (3) maintaining accuracy by addressing training–inference discrepancies (e.g., log-probability mismatches) [[Google Scholar](https://scholar.google.com/citations?user=xwy6Va4AAAAJ&hl=en)] [[GitHub](https://github.com/yushengsu-thu)].
 
 
 <!--
@@ -51,8 +51,10 @@ Recently, I am more focus on:
 * [Feb. 2024] Invited Research Talk at [Microsoft Research - Semantic Machines](https://www.alibabagroup.com/en-US/about-alibaba) hosted by [Ben Van Durme](https://www.microsoft.com/en-us/research/people/bevandur/). Topic: Next-Generation Co-pilot: From Assistant Agent to Autonomy Agent [[slide](https://drive.google.com/file/d/12M7O3cq8cJX7XXxUMG4IkkwuYP5s8nAh/view?usp=sharing)]
 * [Jan. 2024] Invited Research Talk at [Alibaba DAMO Academy](https://www.alibabagroup.com/en-US/about-alibaba) hosted by [Ting-En Lin](https://tnlin.github.io/). Topic: From Assistant Agents (Co-pilots) to Autonomous Agents [[slide](https://drive.google.com/file/d/12M7O3cq8cJX7XXxUMG4IkkwuYP5s8nAh/view?usp=sharing)]
 * [Jul. 2023] Invited Research Talk at [CMU](https://www.cmu.edu/)/[MBZUAI](https://mbzuai.ac.ae/) hosted by [Eric P. Xing](http://www.cs.cmu.edu/~epxing/). Topic: Efficient Adaptation of Large-scale Pre-trained Language Models [[slide](https://drive.google.com/file/d/1ow2Q-YUOk-Hyvou3VAH88yvGlQzS7SFN/view?usp=sharing)].
+<details>
+<summary>Show more...</summary>
 * [Sep. 2022] Invited Talk (on-line) @ [SAP - AI Research](https://www.sap.com/products/artificial-intelligence.html), Headquarter, Germany
-
+</details>
 <!--
 * [Jul. 2022] Oral Talk @ NAACL 2022, [[slide](https://drive.google.com/file/d/1OSmU3s7DOv-Gux5JcjuY0w79MzRRJuiA/view?usp=sharing)] [[video](https://www.youtube.com/watch?v=KVgmtgMQ3ig)]
 * [Apr. 2021] Spotlight Talks (on-line) @ WWW 2021 (Self-Supervised Learning Workshop)
@@ -71,12 +73,15 @@ Recently, I am more focus on:
 </font> -->
 
 
-* [Aug. 2025] Create the [rlsys dockerhub](https://hub.docker.com/repositories/rlsys) to support AMD MI-series GPUs on the RL training framework. 
-* [July. 2025] Thrilled to announce that I integrated AMD ROCm support into slime - [Blog](https://lmsys.org/blog/2025-07-09-slime/), [PR](https://github.com/THUDM/slime/pulls?q=is%3Apr+Hardware+is%3Aclosed), and [Docker](https://hub.docker.com/repository/docker/rlsys/slime/general).
+* [Aug. 2025] Thrilled to announce that [APRIL](https://arxiv.org/abs/2509.18521) was released and its [Github](https://github.com/RLsys-Foundation/APRIL)
+* [Aug. 2025] Thrilled to announce that we create the [rlsys dockerhub](https://hub.docker.com/repositories/rlsys) to support AMD MI-series GPUs on the RL training framework. 
+* [July. 2025] Thrilled to announce that I integrated AMD ROCm support into slime - [Blog](https://rocm.blogs.amd.com/artificial-intelligence/slime/README.html), [Blog](https://lmsys.org/blog/2025-07-09-slime/), [PR](https://github.com/THUDM/slime/pulls?q=is%3Apr+Hardware+is%3Aclosed), and [Docker](https://hub.docker.com/repository/docker/rlsys/slime/general).
 * [Mar. 2025] Thrilled to announce that I integrated AMD ROCm support into [verl](https://www.linkedin.com/feed/update/urn:li:activity:7305685735947268096/).
-* [Jan. 2025] Thrilled to announce that [Agen Laboratory](https://arxiv.org/abs/2501.04227) released and reward 3.9k stars on [Github](https://github.com/SamuelSchmidgall/AgentLaboratory).
+* [Jan. 2025] Thrilled to announce that [Agen Laboratory](https://arxiv.org/abs/2501.04227) was released and reward 3.9k stars on [Github](https://github.com/SamuelSchmidgall/AgentLaboratory).
 * [Sep. 2024] [Andrew Ng](https://en.wikipedia.org/wiki/Andrew_Ng) highlights our work - [ChatDev](https://github.com/OpenBMB/ChatDev) at [Sequoia Capital talk](https://www.youtube.com/watch?v=sal78ACtGTc&t=559s).
 * [Aug. 2024] Joined [AMD](https://www.amd.com/en.html) [GenAI team](https://zicliu.wixsite.com/mysite). We are hiring 🔥.
+<details>
+<summary>Show more...</summary>
 * [May. 2024] Thrilled to announce that [ChatDev](https://arxiv.org/abs/2307.07924) was accepted by ACL 2024.
 * [May. 2024] I will attend the ICLR (Vienna, Austria) conference. Let's grab a coffee. Welcome, DM me via [Twitter](https://twitter.com/thu_yushengsu).
 * [Mar. 2024] Invited Research Talk at [Microsoft Research - AI Frontiers](https://www.microsoft.com/en-us/research/lab/ai-frontiers/) hosted by [Guoqing Zheng](https://www.microsoft.com/en-us/research/people/zheng/). Topic: Efficient Tuning of Large-scale Pre-trained Language Models (LLMs) [[slide](https://drive.google.com/file/d/1zo5aGkeOw16PoUYPxjW_2xllAValW_1x/view?usp=sharing)]
@@ -94,13 +99,22 @@ Recently, I am more focus on:
 * [Sep. 2022] Advancement of Foundation Models. Invited Talk (on-line) @ [SAP - AI Research](https://www.sap.com/products/artificial-intelligence.html), Headquarters, Germany.
 * [Jul. 2022] Will orally present our 2 accepted works at [NAACL 2022](https://2022.naacl.org/) (Seattle, USA). Welcome DM me via [Twitter](https://twitter.com/thu_yushengsu) / <yushengsu.thu@gmail.com> and say "HI" to me.
 * [Apr. 2022] [Transferability of Prompt Tuning](https://aclanthology.org/2022.naacl-main.290/) and [Knowledge Inheritance](https://aclanthology.org/2022.naacl-main.288/) are accepted to [NAACL 2022](https://2022.naacl.org/).
-
+</details>
+  
 <!-- <font color="gray"> </font> -->
 
 
 
 
 ## Publications
+
+* <b>APRIL: Active Partial Rollouts in Reinforcement Learning to Tame Long-tail Generation</b>\
+*<b>Yusheng Su</b><sup><big>*</big></sup>, Yuzhen Zhou*, Jiajun Li*, Gowtham Ramesh*, Zilin Zhu, Xiang Long, Chenyang Zhao, Jin Pan, Xiaodong Yu, Ze Wang, Kangrui Du, Jialian Wu, Ximeng Sun, Jiang Liu, Qiaolin Yu, Hao Chen, Zicheng Liu, Emad Barsoum
+[[pdf](https://arxiv.org/abs/2509.18521)] [[code](https://github.com/RLsys-Foundation/APRIL)]
+
+* <b>Agent Laboratory: Using LLM Agents as Research Assistants</b>\
+*Samuel Schmidgall, <b>Yusheng Su</b>, Ze Wang, Ximeng Sun, Jialian Wu, Xiaodong Yu, Jiang Liu, Zicheng Liu, Emad Barsoum*\
+EMNLP 2025. [[pdf](https://arxiv.org/abs/2501.04227)] [[code](https://github.com/SamuelSchmidgall/AgentLaboratory)]
 
 * <b>Tool Learning with Foundation Models</b>\
 *Yujia Qin, Shengding Hu, Yankai Lin, Weize Chen, Ning Ding, Ganqu Cui, Zheni Zeng, Yufei Huang, Chaojun Xiao, Chi Han, Yi Ren Fung, <b>Yusheng Su</b>, Huadong Wang, Cheng Qian, Runchu Tian, Kunlun Zhu, Shihao Liang, Xingyu Shen, Bokai Xu, Zhen Zhang, Yining Ye, Bowen Li, Ziwei Tang, Jing Yi, Yuzhang Zhu, Zhenning Dai, Lan Yan, Xin Cong, Yaxi Lu, Weilin Zhao, Yuxiang Huang, Junxi Yan, Xu Han, Xian Sun, Dahai Li, Jason Phang, Cheng Yang, Tongshuang Wu, Heng Ji, Zhiyuan Liu, Maosong Sun*\
@@ -151,12 +165,10 @@ AI OPEN 2021. [[pdf](https://www.sciencedirect.com/science/article/pii/S26666510
 EMNLP 2020 Findings, AI OPEN 2021. [[pdf](https://arxiv.org/abs/2009.13964)] [[pdf](https://www.sciencedirect.com/science/article/pii/S2666651021000188)] [[code](https://github.com/thunlp/CokeBERT)]
 
 
-
+<!--
 ## Under Review or Preprint Version <!-- Submitted for Publications-->
 
-<b>Agent Laboratory: Using LLM Agents as Research Assistants</b>\
-*Samuel Schmidgall, <b>Yusheng Su</b>, Ze Wang, Ximeng Sun, Jialian Wu, Xiaodong Yu, Jiang Liu, Zicheng Liu, Emad Barsoum*\
-Arxiv 2025. [[pdf](https://arxiv.org/abs/2501.04227)] [[code](https://github.com/SamuelSchmidgall/AgentLaboratory)]
+
 
 
 
