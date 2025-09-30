@@ -53,7 +53,9 @@ Recently, I am more focus on:
 * [Jul. 2023] Invited Research Talk at [CMU](https://www.cmu.edu/)/[MBZUAI](https://mbzuai.ac.ae/) hosted by [Eric P. Xing](http://www.cs.cmu.edu/~epxing/). Topic: Efficient Adaptation of Large-scale Pre-trained Language Models [[slide](https://drive.google.com/file/d/1ow2Q-YUOk-Hyvou3VAH88yvGlQzS7SFN/view?usp=sharing)].
 <details>
 <summary>Show more...</summary>
-* [Sep. 2022] Invited Talk (on-line) @ [SAP - AI Research](https://www.sap.com/products/artificial-intelligence.html), Headquarter, Germany
+<ul>
+  <li>[Sep. 2022] Invited Talk (on-line) @ <a href="https://www.sap.com/products/artificial-intelligence.html">SAP - AI Research</a>, Headquarters, Germany</li>
+</ul>
 </details>
 <!--
 * [Jul. 2022] Oral Talk @ NAACL 2022, [[slide](https://drive.google.com/file/d/1OSmU3s7DOv-Gux5JcjuY0w79MzRRJuiA/view?usp=sharing)] [[video](https://www.youtube.com/watch?v=KVgmtgMQ3ig)]
@@ -82,23 +84,25 @@ Recently, I am more focus on:
 * [Aug. 2024] Joined [AMD](https://www.amd.com/en.html) [GenAI team](https://zicliu.wixsite.com/mysite). We are hiring 🔥.
 <details>
 <summary>Show more...</summary>
-* [May. 2024] Thrilled to announce that [ChatDev](https://arxiv.org/abs/2307.07924) was accepted by ACL 2024.
-* [May. 2024] I will attend the ICLR (Vienna, Austria) conference. Let's grab a coffee. Welcome, DM me via [Twitter](https://twitter.com/thu_yushengsu).
-* [Mar. 2024] Invited Research Talk at [Microsoft Research - AI Frontiers](https://www.microsoft.com/en-us/research/lab/ai-frontiers/) hosted by [Guoqing Zheng](https://www.microsoft.com/en-us/research/people/zheng/). Topic: Efficient Tuning of Large-scale Pre-trained Language Models (LLMs) [[slide](https://drive.google.com/file/d/1zo5aGkeOw16PoUYPxjW_2xllAValW_1x/view?usp=sharing)]
-* [Feb. 2024] Invited Research Talk at [Microsoft Research - Semantic Machines](https://www.microsoft.com/en-us/research/group/semantic-machines/) hosted by [Ben Van Durme](https://www.microsoft.com/en-us/research/people/bevandur/). Topic: Next-Generation Co-pilot: From Assistant Agent to Autonomy Agent [[slide](https://drive.google.com/file/d/12M7O3cq8cJX7XXxUMG4IkkwuYP5s8nAh/view?usp=sharing)]
-* [Jan. 2024] Thrilled to announce that [AgentVerse](https://openreview.net/forum?id=EHg5GDnyq1) and [ChatEval](https://openreview.net/forum?id=FQepisCUWu) were accepted by ICLR 2024.
-* [Jan. 2024] Invited Research Talk at [Alibaba DAMO Academy](https://www.alibabagroup.com/en-US/about-alibaba). Topic: From Assistant Agents (Co-pilots) to Autonomous Agents [[slide](https://drive.google.com/file/d/12M7O3cq8cJX7XXxUMG4IkkwuYP5s8nAh/view?usp=sharing)].
-* [Dec. 2023] I will attend EMNLP (Singapore) and NeurIPS (New Orleans, U.S.A) conference. Welcome DM me via [Twitter](https://twitter.com/thu_yushengsu) / <yushengsu.thu@gmail.com> and say "HI" to me.
-* [Oct. 2023] Thrilled to announce that [Exploring the Impact of Model Scaling on Parameter-efficient Tuning Methods](https://openreview.net/forum?id=3CIQIYNGlp) was accepted by EMNLP 2023 as the main conference paper.
-* [Oct. 2023] Thrilled to announce that we propose a next-generation AI agent, [X Agent](https://blog.x-agent.net/about/), that can accomplish more challenging tasks in the world.
-* [Aug. 2023] I got my Ph.D.! Thanks to all those who trust me and support me.
-* [Jul. 2023] Invited Research Talk at [CMU](https://www.cmu.edu/)/[MBZUAI](https://mbzuai.ac.ae/) hosted by [Eric P. Xing](http://www.cs.cmu.edu/~epxing/). Topic: Efficient Adaptation of Large-scale Pre-trained Language Models [[slide](https://drive.google.com/file/d/1ow2Q-YUOk-Hyvou3VAH88yvGlQzS7SFN/view?usp=sharing)].
-* [May. 2023] [AgentVerse](https://github.com/OpenBMB/AgentVerse) was published. It provides a flexible framework that simplifies the process of building LLM-based agents to accomplish various tasks in the real world.
-* [Apr. 2023] [Tool Learning](https://arxiv.org/pdf/2304.08354.pdf) survey was published. It demonstrates how recently proposed LLMs leverage the emerging ability to comprehend, create, and manipulate tools, thereby assisting humans in accomplishing their intended objectives.
-* [Jan. 2023] [Parameter-efficient Fine-tuning of Large-scale Pre-trained Language Models](https://www.nature.com/articles/s42256-023-00626-4) was accepted by [Natural Machine Intelligence](https://www.nature.com/natmachintell/) (Cover Article).
-* [Sep. 2022] Advancement of Foundation Models. Invited Talk (on-line) @ [SAP - AI Research](https://www.sap.com/products/artificial-intelligence.html), Headquarters, Germany.
-* [Jul. 2022] Will orally present our 2 accepted works at [NAACL 2022](https://2022.naacl.org/) (Seattle, USA). Welcome DM me via [Twitter](https://twitter.com/thu_yushengsu) / <yushengsu.thu@gmail.com> and say "HI" to me.
-* [Apr. 2022] [Transferability of Prompt Tuning](https://aclanthology.org/2022.naacl-main.290/) and [Knowledge Inheritance](https://aclanthology.org/2022.naacl-main.288/) are accepted to [NAACL 2022](https://2022.naacl.org/).
+<ul>
+  <li>[May. 2024] Thrilled to announce that <a href="https://arxiv.org/abs/2307.07924">ChatDev</a> was accepted by ACL 2024.</li>
+  <li>[May. 2024] I will attend the ICLR (Vienna, Austria) conference. Let's grab a coffee. Welcome, DM me via <a href="https://twitter.com/thu_yushengsu">Twitter</a>.</li>
+  <li>[Mar. 2024] Invited Research Talk at <a href="https://www.microsoft.com/en-us/research/lab/ai-frontiers/">Microsoft Research - AI Frontiers</a> hosted by <a href="https://www.microsoft.com/en-us/research/people/zheng/">Guoqing Zheng</a>. Topic: Efficient Tuning of Large-scale Pre-trained Language Models (LLMs) [<a href="https://drive.google.com/file/d/1zo5aGkeOw16PoUYPxjW_2xllAValW_1x/view?usp=sharing">slide</a>].</li>
+  <li>[Feb. 2024] Invited Research Talk at <a href="https://www.microsoft.com/en-us/research/group/semantic-machines/">Microsoft Research - Semantic Machines</a> hosted by <a href="https://www.microsoft.com/en-us/research/people/bevandur/">Ben Van Durme</a>. Topic: Next-Generation Co-pilot: From Assistant Agent to Autonomy Agent [<a href="https://drive.google.com/file/d/12M7O3cq8cJX7XXxUMG4IkkwuYP5s8nAh/view?usp=sharing">slide</a>].</li>
+  <li>[Jan. 2024] Thrilled to announce that <a href="https://openreview.net/forum?id=EHg5GDnyq1">AgentVerse</a> and <a href="https://openreview.net/forum?id=FQepisCUWu">ChatEval</a> were accepted by ICLR 2024.</li>
+  <li>[Jan. 2024] Invited Research Talk at <a href="https://www.alibabagroup.com/en-US/about-alibaba">Alibaba DAMO Academy</a>. Topic: From Assistant Agents (Co-pilots) to Autonomous Agents [<a href="https://drive.google.com/file/d/12M7O3cq8cJX7XXxUMG4IkkwuYP5s8nAh/view?usp=sharing">slide</a>].</li>
+  <li>[Dec. 2023] I will attend EMNLP (Singapore) and NeurIPS (New Orleans, U.S.A) conference. Welcome DM me via <a href="https://twitter.com/thu_yushengsu">Twitter</a> / &lt;yushengsu.thu@gmail.com&gt; and say "HI" to me.</li>
+  <li>[Oct. 2023] Thrilled to announce that <a href="https://openreview.net/forum?id=3CIQIYNGlp">Exploring the Impact of Model Scaling on Parameter-efficient Tuning Methods</a> was accepted by EMNLP 2023 as the main conference paper.</li>
+  <li>[Oct. 2023] Thrilled to announce that we propose a next-generation AI agent, <a href="https://blog.x-agent.net/about/">X Agent</a>, that can accomplish more challenging tasks in the world.</li>
+  <li>[Aug. 2023] I got my Ph.D.! Thanks to all those who trust me and support me.</li>
+  <li>[Jul. 2023] Invited Research Talk at <a href="https://www.cmu.edu/">CMU</a>/<a href="https://mbzuai.ac.ae/">MBZUAI</a> hosted by <a href="http://www.cs.cmu.edu/~epxing/">Eric P. Xing</a>. Topic: Efficient Adaptation of Large-scale Pre-trained Language Models [<a href="https://drive.google.com/file/d/1ow2Q-YUOk-Hyvou3VAH88yvGlQzS7SFN/view?usp=sharing">slide</a>].</li>
+  <li>[May. 2023] <a href="https://github.com/OpenBMB/AgentVerse">AgentVerse</a> was published. It provides a flexible framework that simplifies the process of building LLM-based agents to accomplish various tasks in the real world.</li>
+  <li>[Apr. 2023] <a href="https://arxiv.org/pdf/2304.08354.pdf">Tool Learning</a> survey was published. It demonstrates how recently proposed LLMs leverage the emerging ability to comprehend, create, and manipulate tools, thereby assisting humans in accomplishing their intended objectives.</li>
+  <li>[Jan. 2023] <a href="https://www.nature.com/articles/s42256-023-00626-4">Parameter-efficient Fine-tuning of Large-scale Pre-trained Language Models</a> was accepted by <a href="https://www.nature.com/natmachintell/">Natural Machine Intelligence</a> (Cover Article).</li>
+  <li>[Sep. 2022] Advancement of Foundation Models. Invited Talk (on-line) @ <a href="https://www.sap.com/products/artificial-intelligence.html">SAP - AI Research</a>, Headquarters, Germany.</li>
+  <li>[Jul. 2022] Will orally present our 2 accepted works at <a href="https://2022.naacl.org/">NAACL 2022</a> (Seattle, USA). Welcome DM me via <a href="https://twitter.com/thu_yushengsu">Twitter</a> / &lt;yushengsu.thu@gmail.com&gt; and say "HI" to me.</li>
+  <li>[Apr. 2022] <a href="https://aclanthology.org/2022.naacl-main.290/">Transferability of Prompt Tuning</a> and <a href="https://aclanthology.org/2022.naacl-main.288/">Knowledge Inheritance</a> are accepted to <a href="https://2022.naacl.org/">NAACL 2022</a>.</li>
+</ul>
 </details>
   
 <!-- <font color="gray"> </font> -->
@@ -110,7 +114,7 @@ Recently, I am more focus on:
 
 * <b>APRIL: Active Partial Rollouts in Reinforcement Learning to Tame Long-tail Generation</b>\
 *<b>Yusheng Su</b><sup><big>*</big></sup>, Yuzhen Zhou*, Jiajun Li*, Gowtham Ramesh*, Zilin Zhu, Xiang Long, Chenyang Zhao, Jin Pan, Xiaodong Yu, Ze Wang, Kangrui Du, Jialian Wu, Ximeng Sun, Jiang Liu, Qiaolin Yu, Hao Chen, Zicheng Liu, Emad Barsoum
-[[pdf](https://arxiv.org/abs/2509.18521)] [[code](https://github.com/RLsys-Foundation/APRIL)]
+ArXiv 2025. [[pdf](https://arxiv.org/abs/2509.18521)] [[code](https://github.com/RLsys-Foundation/APRIL)]
 
 * <b>Agent Laboratory: Using LLM Agents as Research Assistants</b>\
 *Samuel Schmidgall, <b>Yusheng Su</b>, Ze Wang, Ximeng Sun, Jialian Wu, Xiaodong Yu, Jiang Liu, Zicheng Liu, Emad Barsoum*\
