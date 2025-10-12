@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Ethan (Yusheng) Su. I am a research scientist at AMD [GenAI team](https://zicliu.wixsite.com/mysite) (is hiring 🔥) and work on foundation models, especially focusing on pre-training/post-training framework and training efficiency optimization. Before I joined AMD, I was a Postdoctoral Researcher hosted by [Eric Xing](http://www.cs.cmu.edu/~epxing/) from [CMU](https://www.cmu.edu/) / [MBZUAI](https://mbzuai.ac.ae/). I completed my Ph.D. in [Department of Computer Science and Technology](http://www.cs.tsinghua.edu.cn/) at [Tsinghua University](https://www.tsinghua.edu.cn/publish/thu2018en/index.html). Throughout my Ph.D. (from 2019 to 2023), I had the privilege of being advised by [Zhiyuan Liu](https://scholar.google.com/citations?user=dT0v5u0AAAAJ&hl=zh-TW) and being a part of the [THUNLP Lab](https://github.com/thunlp) hosted by [Maosong Sun](https://www.cs.tsinghua.edu.cn/csen/info/1180/4033.htm). Besides, I worked closely with some LLM start-up teams, including [ModelBest](https://github.com/OpenBMB). 
+My name is Ethan (Yusheng) Su. I am a research scientist at AMD [GenAI team](https://zicliu.wixsite.com/mysite) (is hiring 🔥) and work on foundation models, especially focusing on pre-training/post-training framework and training efficiency optimization. Before I joined AMD, I was a Postdoctoral Researcher hosted by [Eric Xing](http://www.cs.cmu.edu/~epxing/) from [CMU](https://www.cmu.edu/) / [MBZUAI](https://mbzuai.ac.ae/). I completed my Ph.D. in [Department of Computer Science and Technology](http://www.cs.tsinghua.edu.cn/) at [Tsinghua University](https://www.tsinghua.edu.cn/publish/thu2018en/index.html). Throughout my Ph.D. (from 2019 to 2023), I had the privilege of being advised by [Zhiyuan Liu](https://scholar.google.com/citations?user=dT0v5u0AAAAJ&hl=zh-TW) and being a part of the [THUNLP Lab](https://github.com/thunlp) hosted by [Maosong Sun](https://www.cs.tsinghua.edu.cn/csen/info/1180/4033.htm). Besides, I worked closely with some LLM start-up teams, including [ModelBest](https://github.com/OpenBMB). [[CV](https://www.overleaf.com/read/pddhmtmpbqqn#6a8efc)]
 
 <!--
 For further details on my academic research and experience, please refer to my [[Google Scholar](https://scholar.google.com/citations?user=xwy6Va4AAAAJ&hl=en)].
@@ -29,7 +29,7 @@ AMD's GenAI team focuses on building a series of foundation models and is hiring
 -->
 
 ## Research
-My recent work focuses on LLMs, particularly in post-training (SFT/RL). Specifically, I focus on: (1) scaling training scale by optimizing frameworks, (2) improving efficiency, and (3) maintaining accuracy by addressing training–inference discrepancies (e.g., log-probability mismatches) [[Google Scholar](https://scholar.google.com/citations?user=xwy6Va4AAAAJ&hl=en)] [[GitHub](https://github.com/yushengsu-thu)].
+My recent work focuses on LLMs, particularly in post-training (SFT/RL). Specifically, I focus on: (1) scaling training scale by optimizing frameworks, (2) improving efficiency, and (3) maintaining accuracy by addressing training–inference discrepancies (e.g., log-probability mismatches) [[Google Scholar](https://scholar.google.com/citations?user=xwy6Va4AAAAJ&hl=en)] [[GitHub](https://github.com/yushengsu-thu)] [[CV](https://www.overleaf.com/read/pddhmtmpbqqn#6a8efc)].
 
 
 <!--
