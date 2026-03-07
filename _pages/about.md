@@ -75,7 +75,7 @@ Recently, I am more focus on:
 * [Aug. 2020] Got one paper accepted at EMNLP 2020. 
 </font> -->
 
-
+* [Nov. 2025] Joined [RadixArk](https://www.radixark.ai/)
 * [Aug. 2025] Thrilled to announce that [APRIL](https://arxiv.org/abs/2509.18521) was released and its [Github](https://github.com/RLsys-Foundation/APRIL)
 * [Aug. 2025] Thrilled to announce that we create the [rlsys dockerhub](https://hub.docker.com/repositories/rlsys) to support AMD MI-series GPUs on the RL training framework. 
 * [July. 2025] Thrilled to announce that I integrated AMD ROCm support into slime - [Blog](https://rocm.blogs.amd.com/artificial-intelligence/slime/README.html), [Blog](https://lmsys.org/blog/2025-07-09-slime/), [PR](https://github.com/THUDM/slime/pulls?q=is%3Apr+Hardware+is%3Aclosed), and [Docker](https://hub.docker.com/repository/docker/rlsys/slime/general).
