@@ -48,6 +48,8 @@ Recently, I am more focus on:
 
 
 ## Talks
+* [May. 2026] Invited Talk at [AMD AI Dev Day](https://www.amd.com/en/corporate/events/amd-ai-dev-day.html?utm_source=Google&utm_medium=paid-search&utm_campaign=SFDevDay26&utm_term=conversion&gad_source=1&gad_campaignid=23753322666&gbraid=0AAAAA_SCU76t1ubgF_aNBXruIuTFPQNia&gclid=Cj0KCQjw-pHPBhCdARIsAHXYWP-OITVAlDNk00qUk4qns4aXB0hm-mnTxQtq6IsrQlq969Oj8Pf4hLwaAq3aEALw_wcB) Topic: 
+Determinism and Scalability of the Miles RL Framework Across Hardware Platforms [[video](https://www.youtube.com/watch?v=xTYBwtOo7QM)] 
 * [Mar. 2024] Invited Research Talk at [Microsoft Research - AI Frontiers](https://www.microsoft.com/en-us/research/lab/ai-frontiers/) hosted by [Guoqing Zheng](https://www.microsoft.com/en-us/research/people/zheng/). Topic: Efficient Tuning of Large-scale Pre-trained Language Models (LLMs) [[slide](https://drive.google.com/file/d/1zo5aGkeOw16PoUYPxjW_2xllAValW_1x/view?usp=sharing)]
 * [Feb. 2024] Invited Research Talk at [Microsoft Research - Semantic Machines](https://www.alibabagroup.com/en-US/about-alibaba) hosted by [Ben Van Durme](https://www.microsoft.com/en-us/research/people/bevandur/). Topic: Next-Generation Co-pilot: From Assistant Agent to Autonomy Agent [[slide](https://drive.google.com/file/d/12M7O3cq8cJX7XXxUMG4IkkwuYP5s8nAh/view?usp=sharing)]
 * [Jan. 2024] Invited Research Talk at [Alibaba DAMO Academy](https://www.alibabagroup.com/en-US/about-alibaba) hosted by [Ting-En Lin](https://tnlin.github.io/). Topic: From Assistant Agents (Co-pilots) to Autonomous Agents [[slide](https://drive.google.com/file/d/12M7O3cq8cJX7XXxUMG4IkkwuYP5s8nAh/view?usp=sharing)]
@@ -74,7 +76,9 @@ Recently, I am more focus on:
 * [Feb. 2021] Got one paper accepted at WWW 2021. 
 * [Aug. 2020] Got one paper accepted at EMNLP 2020. 
 </font> -->
-
+* [May 2026] DeepSeek-V4 Day 0 support [blog](https://www.lmsys.org/blog/2026-04-25-deepseek-v4/)
+* [Apr. 2026] Invited Talk at [AMD AI Dev Day](https://www.amd.com/en/corporate/events/amd-ai-dev-day.html?utm_source=Google&utm_medium=paid-search&utm_campaign=SFDevDay26&utm_term=conversion&gad_source=1&gad_campaignid=23753322666&gbraid=0AAAAA_SCU76t1ubgF_aNBXruIuTFPQNia&gclid=Cj0KCQjw-pHPBhCdARIsAHXYWP-OITVAlDNk00qUk4qns4aXB0hm-mnTxQtq6IsrQlq969Oj8Pf4hLwaAq3aEALw_wcB) Topic: 
+Determinism and Scalability of the Miles RL Framework Across Hardware Platforms [[video](https://www.youtube.com/watch?v=xTYBwtOo7QM)] 
 * [Nov. 2025] Joined [RadixArk](https://www.radixark.ai/)
 * [Aug. 2025] Thrilled to announce that [APRIL](https://arxiv.org/abs/2509.18521) was released and its [Github](https://github.com/RLsys-Foundation/APRIL)
 * [Aug. 2025] Thrilled to announce that we create the [rlsys dockerhub](https://hub.docker.com/repositories/rlsys) to support AMD MI-series GPUs on the RL training framework. 
